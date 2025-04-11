@@ -8,3 +8,5 @@ This repository is meant to serve as a guide and reference for developers lookin
 
 Feel free to explore, learn, and contribute to this project. If you have any questions or suggestions, do not hesitate to reach out. Happy coding!
 
+Live site: 
+https://purepudding.github.io/kopi-kenangan-purepudding/
