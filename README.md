@@ -10,3 +10,11 @@ Feel free to explore, learn, and contribute to this project. If you have any que
 
 Live site: 
 https://purepudding.github.io/kopi-kenangan-purepudding/
+
+---
+
+PurePudding
+
+awusetin@gmail.com
+
+26 - 05 - 24
